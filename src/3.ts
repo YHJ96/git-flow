@@ -1,1 +1,1 @@
-const add = (value) => value + 1;
+const add = (value) => value + 1000;
