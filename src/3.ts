@@ -1,1 +1,1 @@
-const add = (value) => value + 1000;
+console.log(3);
