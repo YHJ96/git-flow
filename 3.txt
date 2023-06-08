@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 2
 =======
 <<<<<<< HEAD
@@ -7,3 +8,6 @@
 2
 >>>>>>> 6492ced (modify: 1)
 >>>>>>> c5e6950 (modify: 1)
+=======
+2
+>>>>>>> c13eba4 (Squashed commit of the following:)
